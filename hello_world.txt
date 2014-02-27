@@ -6,3 +6,4 @@ hi!
 你好
 test
 feature-001
+こんにちわ
