@@ -11,3 +11,10 @@ Greeting!
 こんにちは、日本語で失礼します
 機能Aを追加しました。
 機能Bを追加しました。
+Hello World! World
+Test World!
+Hello everyone!
+Hello, and thank you !
+Konichiwa arigatou !
+Bonan tagon
+Hello all!!
