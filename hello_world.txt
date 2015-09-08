@@ -1,4 +1,4 @@
-Hello,Zombiyamo!
+﻿Hello,Zombiyamo!
 Hello World! World!
 Ni hao!
 Buongiorno!
@@ -19,3 +19,4 @@ Konichiwa arigatou !
 Bonan tagon
 Hello all!!
 hello from Tokyo!
+こにゃにゃちわ
