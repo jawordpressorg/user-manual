@@ -2,7 +2,7 @@
 layout: default
 title: WordPress ユーザドキュメント
 ---
-![WordPress User Document](https://github.com/wckansai2016/wordpress-document/wpuser.png "WordPress User Document")
+![WordPress User Document](wpuser.png "WordPress User Document")
 
 ## マニュアルページ一覧
 
