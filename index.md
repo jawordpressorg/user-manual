@@ -2,7 +2,6 @@
 layout: default
 title: WordPress ユーザドキュメント
 ---
-![WordPress User Document](images/wpuser.png "WordPress User Document")
 
 ## マニュアルページ一覧
 
