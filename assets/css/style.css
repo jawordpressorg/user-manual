@@ -15,3 +15,9 @@ img{
   max-width: 800px;
   margin: 0 auto;
 }
+
+.footer{
+  text-align: center;
+  border-top: 1px solid #ccc;
+  padding: 20px 0;
+}
