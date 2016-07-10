@@ -12,3 +12,4 @@ title: WordPress ユーザドキュメント
 1. [プラグイン](https://wckansai2016.github.io/wordpress-document/5_plugin/)
 1. [ユーザー](https://wckansai2016.github.io/wordpress-document/6.user/)
 1. [設定](https://wckansai2016.github.io/wordpress-document/7.settei/)
+1. [アップデート](https://wckansai2016.github.io/wordpress-document/8.update/)
