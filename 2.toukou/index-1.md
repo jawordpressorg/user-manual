@@ -3,18 +3,26 @@ layout: default
 title: 投稿 - 見出しをつける
 ---
 
-
-
 ### 新規投稿を追加
-![kana](./images/toukou-2.png)
 
-「タイトルを入力」の箇所に、記事の見出しを入力します
+記事のタイトルを入力します
+![kana](./images/toukou-1-1.png)
 
-
-
-
-
+本文を入力します
+![kana](./images/toukou-1-2.png)
 
 
-リンクするばあい
-[kana](/.images/gazou.jpg)
+「公開」ボタンをクリックします
+![kana](./images/toukou-1-3.png)
+
+
+すぐに公開しない場合は「下書きとして保存」をクリックします
+![kana](./images/toukou-1-4.png)
+
+
+
+2 [投稿方法](./index.md) 
+
+2-1 投稿方法 - 見出しをつける
+
+2-2 [投稿方法 - 画像を添付する](./index-2.md)
