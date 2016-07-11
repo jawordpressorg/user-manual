@@ -1,4 +1,27 @@
-html, body{
-margin: 0;
-padding: 0;
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.siteHeader {
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+  padding: 20px 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.siteFooter {
+  text-align: center;
+  border-top: 1px solid #ccc;
+  padding: 20px 0;
 }
