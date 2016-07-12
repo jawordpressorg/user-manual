@@ -5,11 +5,11 @@ title: WordPress ユーザドキュメント
 
 ## マニュアルページ一覧
 
-1. [ログインの方法](https://wckansai2016.github.io/wordpress-document/1_login/)
-1. [投稿方法](https://wckansai2016.github.io/wordpress-document/2_toukou/)
-1. [固定ページ](https://wckansai2016.github.io/wordpress-document/3_kotei/)
-1. [外観](https://wckansai2016.github.io/wordpress-document/4_gaikan/)
-1. [プラグイン](https://wckansai2016.github.io/wordpress-document/5_plugin/)
-1. [ユーザー](https://wckansai2016.github.io/wordpress-document/6_user/)
-1. [設定](https://wckansai2016.github.io/wordpress-document/7_settei/)
-1. [アップデート](https://wckansai2016.github.io/wordpress-document/8_update/)
+1. [ログインの方法](./1_login/)
+1. [投稿方法](./2_toukou/)
+1. [固定ページ](./3_kotei/)
+1. [外観](./4_gaikan/)
+1. [プラグイン](./5_plugin/)
+1. [ユーザー](./6_user/)
+1. [設定](./7_settei/)
+1. [アップデート](./8_update/)
