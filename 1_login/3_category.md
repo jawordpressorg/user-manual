@@ -1,5 +1,5 @@
 ##3-1カテゴリの追加##
-　![カテゴリの追加](https://github.com/wckansai2016/wordpress-document/blob/gh-pages/2.toukou/images/category-1.png)
+　![カテゴリの追加](./images/category-1.png)
 1.投稿＞カテゴリを選択
 2.「新規カテゴリーを追加」の下の「名前」を入力
 　※スラッグは自動的に追加されます。（後で変更可）
