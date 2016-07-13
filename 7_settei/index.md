@@ -27,5 +27,6 @@ http://example.lo/wp-admin/
 <dt>日付と時刻の書式の解説</dt><dd></dd>
 <dt>週の始まり</dt><dd></dd>
 <dt>サイトの言語</dt><dd></dd>
+</dl>
 
 # 表示設定
