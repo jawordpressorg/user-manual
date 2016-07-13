@@ -14,7 +14,7 @@ http://example.lo/wp-admin/
 <dd></dd>
 <dt>キャッチフレーズ</dt>
 <dd>このサイトの簡単な説明。</dd>
-<dt>WordPress アドレス (URL)</dd>
+<dt>WordPress アドレス (URL)</dt>
 <dt>サイトアドレス(URL)</dt>
 <dd>サイトのホームページを WordPress のインストールディレクトリとは異なるものにしたい場合、ここにアドレスを入力してください。</dd>
 <dt>メールアドレス</dt>
@@ -27,5 +27,7 @@ http://example.lo/wp-admin/
 <dt>日付と時刻の書式の解説</dt><dd></dd>
 <dt>週の始まり</dt><dd></dd>
 <dt>サイトの言語</dt><dd></dd>
+</dl>
+
 
 # 表示設定
