@@ -1,3 +1,6 @@
+*{
+  box-sizing:border-box;
+}
 html,
 body {
   margin: 0;
@@ -16,7 +19,7 @@ img {
 }
 
 .container {
-  max-width: 800px;
+  max-width: 960px;
   margin: 0 auto;
 }
 
@@ -24,4 +27,37 @@ img {
   text-align: center;
   border-top: 1px solid #ccc;
   padding: 20px 0;
+}
+
+.cf:before,
+.cf:after {
+  content: " ";
+  display: table;
+}
+
+.cf:after {
+  clear: both;
+}
+
+.cf {
+  *zoom: 1;
+}
+
+.contentNav{
+  border-top: 1px solid #ccc;
+}
+
+@media (min-width: 800px) {
+  .contentNav{
+    float: left;
+    width: 25%;
+    border-top: none;
+  }
+
+  .main_content{
+    float: right;
+    width: 75%;
+    padding-left: 20px;
+    border-left: 1px solid #ccc;
+  }
 }
