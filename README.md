@@ -1,7 +1,7 @@
 # WordPress ユーザドキュメント
 
 
-### Githubページ（ このページがユーザドキュメント（＝マニュアル）になっています ）
+### Githubページ （ WordPressユーザドキュメント（＝マニュアル）はこちら ）
 
 - https://wckansai2016.github.io/wordpress-document/
 
