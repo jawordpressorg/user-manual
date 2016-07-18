@@ -7,7 +7,7 @@ title: ログインの方法
 
 ログインのURLはWordPressがインストールされているディレクトリ/wp-login.phpです。例えば http://example.com/ にWordPressがインストールされている場合は、 http://example.com/wp-login.php がログイン画面となります。もし http://example.com/wp/ というドメインより一階層中にWordPressがインストールされている場合は、http://example.com/wp/wp-login.php がログイン画面となります。
 
-![ログイン方法](./images/login.png)
+![ログイン方法](/images/login.png)
 
 1. 「ユーザー名」を入力します
 2. 「パスワード」を入力します
