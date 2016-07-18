@@ -4,10 +4,10 @@ title: 設定について
 ---
 
 # 一般設定
-1.まずwordpressに管理者でログインする。<br />
-http://example.lo/wp-admin/
 
-2.左ペインの「設定」から「一般設定」をクリックする。<br />
+1. まずwordpressに管理者でログインする。  
+http://example.lo/wp-admin/
+2. 左ペインの「設定」から「一般設定」をクリックする。
 
 <dl>
 <dt>サイトのタイトル</dt>
