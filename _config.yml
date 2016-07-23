@@ -1,1 +1,6 @@
+url: 'https://wckansai2016.github.io'
 baseurl: '/wordpress-document'
+
+github:
+  id: wckansai2016
+  repo: wordpress-document
