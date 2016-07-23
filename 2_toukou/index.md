@@ -3,12 +3,11 @@ layout: default
 title: 投稿方法 
 ---
 
-### 記事の投稿
+# 記事の投稿
+
 [投稿]-[新規追加]をクリックします
 
-
 ![kana](./images/toukou.png)
-
 
 2 投稿方法
 
