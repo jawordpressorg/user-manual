@@ -21,8 +21,8 @@ title: 投稿 - 見出しをつける
 
 ![kana](./images/toukou-1-4.png)
 
-2 [投稿方法](./) 
+2 [投稿方法]({{ site.baseurl }}/2_toukou/)
 
 2-1 投稿方法 - 見出しをつける
 
-2-2 [投稿方法 - 画像を添付する](./index-2.html)
+2-2 [投稿方法 - 画像を添付する]({{ site.baseurl }}/2_toukou/index-2.html)
