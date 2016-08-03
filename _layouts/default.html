@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style.css" media="screen">
     <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js'></script>
-    <script src='https://cdnjs.cloudflare.com/ajax/libs/riot/2.3.18/riot+compiler.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/riot/2.5.0/riot+compiler.min.js'></script>
     <title>{{ page.title }}</title>
   </head>
 
@@ -43,15 +43,15 @@
       </nav>
     </div>
     <footer class="siteFooter">
-      <contributors></contributors>
+      <div class="contributors" riot-tag="contributors"></div>
       <p>Organized by <a href="http://wordcamp-kansai.connpass.com/event/34312/">WordCamp Kansai 2016 documentation Hands-on team</a>. / licensed under <a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html">the GPLv2</a> or later.</p>
       <p><a href="http://wordcamp-kansai.connpass.com/event/34312/">WordCamp Kansai 2016 ドキュメンテーションハンズオンチーム</a>が運営しています。 / ライセンスは <a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html">GPLv2</a> またはそれ以降に準拠します。</p>
       <a href="https://github.com/{{ site.github.id }}/{{ site.github.repo }}">GitHub で見る</a>
     </footer>
 
-  <script type="riot/tag" src="/wordpress-document/assets/js/contributors.tag"></script>
-  <script>
-    riot.mount('contributors');
-  </script>
+    <script type="riot/tag" src="/wordpress-document/assets/js/contributors.tag"></script>
+    <script>
+      riot.mount('contributors');
+    </script>
   </body>
 </html>
