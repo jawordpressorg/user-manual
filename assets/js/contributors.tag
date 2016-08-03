@@ -32,14 +32,14 @@
 
 		var self = this
 
-		fetch( 'https://api.github.com/repos/wckansai2016/wordpress-document/contributors' )
-			.then( function ( data ) {
-				return data.json()
-			} )
-			.then( function ( json ) {
-				self.contributor = json
-				self.update()
-			} )
+		$.ajax({
+		   type: "GET",
+		   url: "https://api.github.com/repos/wckansai2016/wordpress-document/contributors",
+		   success: function( data ){
+				 self.contributor = data
+				 self.update()
+		   }
+		 });
 
 	</script>
 </contributors>
