@@ -14,7 +14,7 @@ install:
   - gem install jekyll html-proofer
 
 script:
-  - echo "baseurl: ''" >> _config.yml
+  - echo baseurl:\ \'\' >> _config.yml
   - jekyll build
   - htmlproofer ./_site
 
