@@ -1,0 +1,21 @@
+language: ruby
+rvm:
+  - 2.1
+
+branches:
+  only:
+    - gh-pages
+
+env:
+  global:
+    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+
+install:
+  - gem install jekyll html-proofer
+
+script:
+  - echo baseurl:\ \'\' >> _config.yml
+  - jekyll build
+  - htmlproofer ./_site
+
+sudo: false
