@@ -9,7 +9,7 @@ title: ログインの方法
 
 例えば http://example.com/ にWordPressがインストールされている場合は、 http://example.com/wp-login.php がログイン画面となります。もし http://example.com/wp/ というドメインより一階層中にWordPressがインストールされている場合は、http://example.com/wp/wp-login.php がログイン画面となります。
 
-![ログイン方法](./images/login.png)
+![ログイン方法]({{ site.baseurl }}/assets/images/login.png)
 
 1. 「ユーザー名」を入力します
 2. 「パスワード」を入力します
@@ -19,24 +19,24 @@ title: ログインの方法
 
 # パスワードを忘れた時
 
-![ログイン方法](./images/login.png)
+![ログイン方法]({{ site.baseurl }}/assets/images/login.png)
 
 1. 「パスワードをお忘れですか？」リンクを押します
 
-![パスワードを忘れた時](./images/foreget.png)
+![パスワードを忘れた時]({{ site.baseurl }}/assets/images/foreget.png)
 
 1. 「ユーザー名またはメールアドレス」を入力します
 2. 「新しいパスワードを取得」ボタンを押します
 
-![パスワードを忘れた時](./images/foreget2.png)
+![パスワードを忘れた時]({{ site.baseurl }}/assets/images/foreget2.png)
 
 1. 登録しているメールアドレスにメールが送信されます
 
-![パスワードをリセット](./images/mail.jpg)
+![パスワードをリセット]({{ site.baseurl }}/assets/images/mail.jpg)
 
 1. メールを確認して、パスワードリセット用のリンクに遷移します
 
-![パスワードをリセット](./images/reset.png)
+![パスワードをリセット]({{ site.baseurl }}/assets/images/reset.png)
 
 1. 「新規パスワード」を入力します
 2. 「新しいパスワードの確認」を入力します

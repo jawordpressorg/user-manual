@@ -7,7 +7,7 @@ title: 投稿方法
 
 [投稿]-[新規追加]をクリックします
 
-![kana](./images/toukou.png)
+![kana]({{ site.baseurl }}/assets/images/toukou.png)
 
 2 投稿方法
 
