@@ -13,6 +13,6 @@ title: プラグイン
 
 (3)「今すぐインストール」をクリック  
 
-2-1 [プラグイン - プラグインを追加する](./index-1.html)  
+2-1 [プラグイン - プラグインを追加する]({{ site.baseurl }}/5_plugin/index-1.html)  
 
 ![プラグインを追加する](./images/plugin02-1.png)
