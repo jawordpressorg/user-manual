@@ -49,31 +49,14 @@ img {
 }
 
 @media (min-width: 800px) {
-  .container {
-    /*--- For Android Browser ---*/
-    display:-webkit-box;
-    -webkit-box-direction: row-reverse;
-    -webkit-box-align:stretch;
-
-    /*--- For IE10 Browser ---*/
-    display:-ms-flexbox;
-    -ms-flex-align:stretch;
-
-    /*--- For PC safari ---*/
-    display:-webkit-flex;
-    -webkit-flex-direction: row-reverse;
-    -webkit-align-items:stretch;
-
-    display: flex;
-    flex-direction: row-reverse;
-    align-items: stretch;
-  }
   .contentNav{
+    float: left;
     width: 25%;
     border-top: none;
   }
 
   .main_content{
+    float: right;
     width: 75%;
     padding-left: 10px;
     border-left: 1px solid #ccc;
