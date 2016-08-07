@@ -10,19 +10,19 @@ title: ユーザ
 
 ダッシュボードのメニューにあります「ユーザー」の中から「あなたのプロフィール」をクリックします。
 
-![パスワード変更](./images/menu.png)
+![パスワード変更]({{ site.baseurl }}/assets/images/menu.png)
 
 プロフィール画面が表示されますので、「アカウント管理」の中にあります「新しいパスワード」の横の「パスワードの生成」ボタンをクリックします。
 
-![パスワード変更](./images/1.png)
+![パスワード変更]({{ site.baseurl }}/assets/images/1.png)
 
 パスワードを入力するウィンドウが表示されますので、新しいパスワードを入力します。
 
-![パスワード変更](./images/newpassword.png)
+![パスワード変更]({{ site.baseurl }}/assets/images/newpassword.png)
 
 入力しましたら「プロフィールを更新」ボタンをクリックします。
 
-![パスワード変更](./images/2.png)
+![パスワード変更]({{ site.baseurl }}/assets/images/2.png)
 
 
 ### メールアドレス変更
