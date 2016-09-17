@@ -1,6 +1,6 @@
 ---
 layout: default
-title: カテゴリの追加
+title: 投稿 - カテゴリの追加
 ---
 
 # 3-1 カテゴリの追加

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 投稿方法 
+title: 投稿方法
 ---
 
 # 記事の投稿

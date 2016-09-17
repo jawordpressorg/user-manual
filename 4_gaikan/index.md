@@ -1,6 +1,6 @@
 ---
 layout: default
-title: テスト
+title: 外観
 ---
 
 # 外観

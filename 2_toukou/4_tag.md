@@ -1,6 +1,6 @@
 ---
 layout: default
-title: テスト
+title: 投稿 - タグの付与
 ---
 
 # 記事にタグを付ける

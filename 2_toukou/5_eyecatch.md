@@ -1,6 +1,6 @@
 ---
 layout: default
-title: アイキャッチ
+title: 投稿 - アイキャッチ
 ---
 
 # アイキャッチ
