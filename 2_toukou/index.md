@@ -11,7 +11,7 @@ title: 投稿方法
 
 ![kana]({{ site.baseurl }}/assets/images/toukou.png)
 
-## 2. 投稿方法
+### 2. 投稿方法
 
 2-1 [投稿方法 - 見出しをつける]({{ site.baseurl }}/2_toukou/index-1.html)
 
