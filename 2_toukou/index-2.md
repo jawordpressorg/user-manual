@@ -53,6 +53,8 @@ title: 投稿 - 画像を添付する
 
 ![kana]({{ site.baseurl }}/assets/images/toukou-2-3-5.png)
 
+ _ ※動画や音声ファイルの添付についても、同様の手順になります _
+
 
 2 [投稿方法]({{ site.baseurl }}/2_toukou/)
 
