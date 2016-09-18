@@ -7,20 +7,30 @@ title: 投稿 - アイキャッチ
 
 ## アイキャッチ画像の登録方法 
 
-投稿画面にある「アイキャッチ画像」の「アイキャッチ画像を設定」をクリック
+投稿、または固定ページの画面にある「アイキャッチ画像」の「アイキャッチ画像を設定」をクリック
 
-![アイキャッチ画像]({{ site.baseurl }}/assets/images/eyecatch_1.png)
+![アイキャッチ画像を設定]({{ site.baseurl }}/assets/images/eyecatch_1.png)
  
 ## アイキャッチ画像のアップロード
 
-![アイキャッチ画像]({{ site.baseurl }}/assets/images/eyecatch_2.png)
+![アイキャッチ画像のアップロード]({{ site.baseurl }}/assets/images/eyecatch_2.png)
 
 「メディアライブラリ」から画像を選択、もしくは「ファイルをアップロード」をクリックして画像を追加し「アイキャッチ画像を設定」ボタンをクリックする。  
   
 アイキャッチ画像が設定されました！  
 
-![アイキャッチ画像]({{ site.baseurl }}/assets/images/eyecatch_3.png)
+![アイキャッチ画像の設定]({{ site.baseurl }}/assets/images/eyecatch_3.png)
 
-最後に必ず「保存」しましょう。　　
+## アイキャッチ画像の削除
 
-![アイキャッチ画像]({{ site.baseurl }}/assets/images/eyecatch_4.png)
+設定したアイキャッチ画像を削除する場合は、「アイキャッチ画像」の「アイキャッチ画像を削除」をクリック
+
+## アイキャッチ画像の差し替え
+
+アイキャッチ画像を差し替える場合は、一旦アイキャッチ画像を削除し、改めてアイキャッチ画像を設定する。
+
+## 保存
+
+最後に必ず保存（「更新」または「公開」ボタンをクリック）しましょう。　　
+
+![公開]({{ site.baseurl }}/assets/images/eyecatch_4.png)
