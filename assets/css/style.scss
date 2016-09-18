@@ -29,9 +29,10 @@ img {
 }
 
 .siteFooter {
+  font-size: small;
   text-align: center;
-  border-top: 1px solid #ccc;
   padding: 20px 0;
+  background: #eee;
 }
 
 .cf:before,
@@ -50,11 +51,11 @@ img {
 
 .contentNav{
   ol{
+    list-style-position: inside;
     li{
-      list-style-position: inside;
       border-bottom: 1px solid #ddd;
       a{
-        display: block;
+        display: inline-block;
         padding: 0.5em 0;
         &:hover{
           background: #ddd;
@@ -67,6 +68,14 @@ img {
         }
       }
     }
+  }
+}
+
+.main_content{
+  h2{
+    background-color: #fc0;
+    border-radius: 6px;
+    padding: 0.2em 0.6em;
   }
 }
 
