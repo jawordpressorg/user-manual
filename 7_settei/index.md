@@ -26,6 +26,8 @@ title: 設定について
     このサイトの簡単な説明。
 
     ## WordPress アドレス (URL)
+    
+　　WordPressをインストールした場所
 
     ## サイトアドレス(URL)
 
