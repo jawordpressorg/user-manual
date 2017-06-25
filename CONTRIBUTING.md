@@ -67,5 +67,7 @@ WordPress ソフトウェアと同じく GPL バージョン 2 またはそれ�
 1. 編集したいファイルの編集ボタン（鉛筆のマーク）をクリックする
 1. 「Preview changes」をクリックすると、プレビューを確認できます。
 1. 「Commit changes」ボタンをクリックして、保存します。
-`https://【GitHubのユーザー名】.github.io/wordpress-document/index`
-にアクセスすると、保存した内容を確認できます。
+1. 「Pull requests」をクリックします
+1. 「New pull request」ボタンをクリックします。
+1. 差分を確認して「Create pull request」ボタンをクリックします
+1. フォーク元のリポジトリにプルリクエストを送ります。
