@@ -14,7 +14,7 @@ https://wpdocs.osdn.jp/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E3
 ![新バージョンの Contact Form 7 が利用できます。バージョン 4.8 の詳細を表示するか、更新してください。]({{ site.baseurl }}/assets/images/update04.png)
 
 # WordPress本体のアップグレード/アップデート
-WordPress本体（以下、コアと呼びます）のアップデートが公開されると、管理画面の上部にこのような警告が表示されます
+WordPress本体（以下、コアと呼びます）のアップデートが公開されると、管理画面の上部にこのような警告が表示されます。
 
 ![WordPress 4.6.1が利用可能です。今すぐ更新してください。]({{ site.baseurl }}/assets/images/update01.png)
 
