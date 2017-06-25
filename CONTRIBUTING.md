@@ -69,4 +69,5 @@ WordPress ソフトウェアと同じく GPL バージョン 2 またはそれ�
 1. 「Commit changes」ボタンをクリックして、保存します。
 1. 「Pull requests」をクリックします
 1. 「New pull request」ボタンをクリックします。
-1. 差分を確認して「」
+1. 差分を確認して「Create pull request」ボタンをクリックします
+1. フォーク元のリポジトリにプルリクエストを送ります。
