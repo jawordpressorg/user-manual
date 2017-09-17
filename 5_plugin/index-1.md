@@ -16,3 +16,10 @@ title: プラグイン
 2-1 [プラグイン - プラグインを追加する]({{ site.baseurl }}/5_plugin/index-1.html)  
 
 ![プラグインを追加する]({{ site.baseurl }}/assets/images/plugin02-1.png)
+
+![プラグインを追加する]({{ site.baseurl }}/assets/images/plugin02-2.png)
+
+![プラグインを追加する]({{ site.baseurl }}/assets/images/plugin02-3.png)
+
+![プラグインを追加する]({{ site.baseurl }}/assets/images/plugin02-4.png)
+
