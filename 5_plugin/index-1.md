@@ -1,6 +1,6 @@
 ---
 layout: default
-title: プラグイン
+title: プラグイン－プラグインを追加する
 ---
 
 # 5.プラグイン  
