@@ -5,14 +5,30 @@ title: 投稿方法
 
 # 記事の投稿
 
-## 記事の投稿
+## 新規投稿を追加
 
 ### 1 [投稿]-[新規追加]をクリックします
 
 ![kana]({{ site.baseurl }}/assets/images/toukou.png)
 
-## 投稿方法
+記事のタイトルを入力します
 
-###  [投稿方法 - 見出しをつける]({{ site.baseurl }}/2_toukou/index-1.html)
+![kana]({{ site.baseurl }}/assets/images/toukou-1-1.png)
 
-###  [投稿方法 - 画像を添付する]({{ site.baseurl }}/2_toukou/index-2.html)
+本文を入力します
+
+![kana]({{ site.baseurl }}/assets/images/toukou-1-2.png)
+
+「公開」ボタンをクリックします
+
+![kana]({{ site.baseurl }}/assets/images/toukou-1-3.png)
+
+すぐに公開しない場合は「下書きとして保存」をクリックします
+
+![kana]({{ site.baseurl }}/assets/images/toukou-1-4.png)
+
+2 [投稿方法]({{ site.baseurl }}/2_toukou/)
+
+2-1 投稿方法 - 見出しをつける
+
+2-2 [投稿方法 - 画像を添付する]({{ site.baseurl }}/2_toukou/index-2.html)
