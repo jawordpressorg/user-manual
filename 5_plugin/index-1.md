@@ -23,4 +23,4 @@ title: プラグイン
 
 ![プラグインが有効になりました]({{ site.baseurl }}/assets/images/plugin02-3.png)
 
-5 [プラグイン]({{ site.baseurl }}/5_plugin/index-1.html)  に戻る
+ [5.プラグインに戻る]({{ site.baseurl }}/5_plugin/) 
