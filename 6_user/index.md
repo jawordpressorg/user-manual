@@ -60,4 +60,10 @@ title: ユーザー
 
 ## 6-4.ユーザーの追加
 ダッシュボードの「ユーザー」から「新規追加」を選びます。
+
 ![ユーザーの追加]({{ site.baseurl }}/assets/images/add-user01.png)
+
+「新規ユーザーを追加」の画面が出たら、必須項目を入力します。
+
+![新規ユーザーの追加]({{ site.baseurl }}/assets/images/add-user02.jpg)
+
