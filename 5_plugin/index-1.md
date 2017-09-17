@@ -17,9 +17,6 @@ title: プラグイン
 
 ![プラグインを追加する]({{ site.baseurl }}/assets/images/plugin02-1.png)
 
-![プラグインを追加する]({{ site.baseurl }}/assets/images/plugin02-2.png)
+![プラグインを有効にする]({{ site.baseurl }}/assets/images/plugin02-2.png)
 
-![プラグインを追加する]({{ site.baseurl }}/assets/images/plugin02-3.png)
-
-![プラグインを追加する]({{ site.baseurl }}/assets/images/plugin02-4.png)
-
+![プラグインが有効になりました]({{ site.baseurl }}/assets/images/plugin02-3.png)
