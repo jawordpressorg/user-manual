@@ -67,3 +67,7 @@ title: ユーザー
 
 ![新規ユーザーの追加]({{ site.baseurl }}/assets/images/add-user02.jpg)
 
+権限グループは、新しく追加するユーザーに付与する権限を「購読者」「寄稿者」「投稿者」「編集者」「管理者」の中から、選んでください。
+
+![新規ユーザーの権限]({{ site.baseurl }}/assets/images/add-user03.jpg)
+
