@@ -1,6 +1,6 @@
 ---
 layout: default
-title: プラグイン
+title: プラグイン－プラグインを追加する
 ---
 
 # 5.プラグイン  
@@ -13,6 +13,14 @@ title: プラグイン
 
 (3)「今すぐインストール」をクリック  
 
-2-1 [プラグイン - プラグインを追加する]({{ site.baseurl }}/5_plugin/index-1.html)  
-
 ![プラグインを追加する]({{ site.baseurl }}/assets/images/plugin02-1.png)
+
+(4)「有効化」をクリック  
+
+![プラグインを有効にする]({{ site.baseurl }}/assets/images/plugin02-2.png)
+
+(5)プラグインの画面に移動します。該当のプラグインがインストールされていることを確認します  
+
+![プラグインが有効になりました]({{ site.baseurl }}/assets/images/plugin02-3.png)
+
+ [5.プラグインに戻る]({{ site.baseurl }}/5_plugin/) 
