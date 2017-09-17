@@ -102,15 +102,19 @@ img {
     border-radius: 6px;
     padding: 0.2em 0.6em;
   }
-
   h3{
     border-bottom: 4px solid #fc0;
     padding: 0.2em 0.6em;
   }
-
   h4{
     border-left: 6px solid #fc0;
     padding: 0 0 0 10px;
+  }
+  code{
+    padding: 2px 5px;
+    color: #099;
+    background: #F0F9F9;
+    border-radius: 3px;
   }
 }
 
