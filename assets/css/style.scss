@@ -12,6 +12,20 @@ body {
   padding: 0;
 }
 
+a {
+  color: #0073aa;
+}
+
+a:active,
+a:hover {
+  color: #00a0d2
+}
+
+em {
+  font-weight: bold;
+  color: #666;
+}
+
 img {
   max-width: 100%;
   height: auto;
@@ -52,19 +66,30 @@ img {
 .contentNav{
   ol{
     list-style-position: inside;
+    padding: 0;
     li{
       border-bottom: 1px solid #ddd;
       a{
         display: inline-block;
         padding: 0.5em 0;
         &:hover{
-          background: #ddd;
+          text-decoration: none;
         }
       }
       ul{
+        counter-reset:order;
+        padding: 0 0 0 50px;
         li{
           list-style-position: outside;
           border-bottom: 0;
+        }
+      }
+    }
+    > li {
+      > a {
+        padding: 1em;
+        &:hover {
+          background: #ddd;
         }
       }
     }
@@ -76,6 +101,14 @@ img {
     background-color: #fc0;
     border-radius: 6px;
     padding: 0.2em 0.6em;
+  }
+  h3{
+    border-bottom: 4px solid #fc0;
+    padding: 0.2em 0.6em;
+  }
+  h4{
+    border-left: 6px solid #fc0;
+    padding: 0 0 0 10px;
   }
   code{
     padding: 2px 5px;

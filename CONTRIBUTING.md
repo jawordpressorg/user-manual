@@ -47,8 +47,33 @@ https://github.com/wckansai2016/wordpress-document/wiki
 1. 更新
     - アップデート
 
-# ライセンス 
+# ライセンス
 WordPress ソフトウェアと同じく GPL バージョン 2 またはそれ以降の互換ライセンス
+
+# ローカルリポジトリの作り方
+
+## Githubアカウントの作成
+
+Github アカウントをお持ちでなければ作成します。
+
+- [GitHub - アカウントの準備と設定](https://git-scm.com/book/ja/v2/GitHub-%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%AE%E6%BA%96%E5%82%99%E3%81%A8%E8%A8%AD%E5%AE%9A)
+
+## 自分のリポジトリへのフォーク
+
+Githubにログイン後、[WordPressドキュメント](https://github.com/wckansai2016/wordpress-document)を開き、右上の「Fork」をクリックします。
+
+## ローカルへのダウンロード(git clone)
+
+1. 自分のGithubのフォークしたリポジトリページを開きます。
+2. 「Clone or download」をクリックし、ご自分でご利用の方法に応じ、ローカルにcloneします。
+
+## gh-pagesブランチをチェックアウトし、そこからトピックブランチを作成します。
+
+## トピックブランチでドキュメントを追加修正後、gh-pagesブランチにマージします。
+
+## 自分のリポジトリにプッシュします。
+
+## プルリクエストを送ります。
 
 ## テンプレート修正の仕方
 以下は、デザインテンプレートを変更したい方向けの情報です。ローカルリポジトリにて [Jekyll](https://jekyllrb-ja.github.io/) を利用し、実際の出力内容を確認しながら修正を行います。
