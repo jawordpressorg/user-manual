@@ -218,22 +218,17 @@ title: 外観
 
 ![ヘッダーの説明6]({{ site.baseurl }}/assets/images/4-gaikan-header-6.png)
 
-
-
-
-
-
-
-
-
-
-
-
 ## 背景
-「外観」メニューの「背景」を選択すると、ウィジェット編集画面になります。
+「外観」メニューの「背景」を選択すると、ウィジェットの編集画面になります。
 
-![メニューの説明1]({{ site.baseurl }}/assets/images/4-gaikan-haikei-1)
+![背景の説明1]({{ site.baseurl }}/assets/images/4-gaikan-haikei-1)
 
+画像選択をクリックして下さい。
 
+![背景の説明2]({{ site.baseurl }}/assets/images/4-gaikan-haikei-2)
+
+背景に設定したい画像を選択します。
+
+![背景の説明3]({{ site.baseurl }}/assets/images/4-gaikan-haikei-3)
 
 ## テーマの編集
