@@ -4,7 +4,9 @@ title: 投稿方法
 ---
 
 # 記事の投稿
-## 1.記事の投稿　
+
+## 1.記事の投稿
+
 ### 1-1 [投稿]-[新規追加]をクリックします
 
 ![kana]({{ site.baseurl }}/assets/images/toukou.png)
