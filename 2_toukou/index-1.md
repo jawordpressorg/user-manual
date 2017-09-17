@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 投稿 - 見出しをつける
+title: 投稿 - 新規投稿追加
 ---
 
 # 記事の投稿
