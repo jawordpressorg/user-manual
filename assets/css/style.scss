@@ -65,13 +65,12 @@ img {
 
 .contentNav{
   ol{
-    list-style-position: inside;
     padding: 0;
+    list-style: none;
     li{
       border-bottom: 1px solid #ddd;
       a{
-        display: inline-block;
-        padding: 0.5em 0;
+        display: block;
         &:hover{
           text-decoration: none;
         }
@@ -87,7 +86,7 @@ img {
     }
     > li {
       > a {
-        padding: 1em;
+        padding: 0.5em 0;
         &:hover {
           background: #ddd;
         }
