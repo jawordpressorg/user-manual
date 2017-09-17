@@ -152,6 +152,33 @@ title: 外観
 
 ## メニュー
 
+「外観」メニューの「メニュー」を選択すると、メニュー編集画面になります。
+
+「新規メニューを作成」をクリックします。
+
+![メニューの説明1]({{ site.baseurl }}/assets/images/4-gaikan-menu-1.png)
+
+新規メニュー名を入力し、「メニューを作成」を選択。
+
+![メニューの説明1]({{ site.baseurl }}/assets/images/4-gaikan-menu-2.png)
+
+メニューに表示したいページ等を選択し、「メニューを追加」を選択。
+
+![メニューの説明1]({{ site.baseurl }}/assets/images/4-gaikan-menu-3.png)
+
+メニュー構造に追加されました。  
+作成したメニューの追加位置を選択します。
+
+![メニューの説明1]({{ site.baseurl }}/assets/images/4-gaikan-menu-4.png)
+
+「メニューの保存」を選択します。
+
+![メニューの説明1]({{ site.baseurl }}/assets/images/4-gaikan-menu-5.png)
+
+メニューが追加されました。
+
+![メニューの説明1]({{ site.baseurl }}/assets/images/4-gaikan-menu-6.png)
+
 ## ヘッダー
 
 ## 背景
