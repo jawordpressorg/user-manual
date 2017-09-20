@@ -34,7 +34,7 @@
 
     $.ajax({
       type: "GET",
-      url: "https://api.github.com/repos/wckansai2016/wordpress-document/contributors",
+      url: "https://api.github.com/repos/jawordpressorg/user-manual/contributors",
     })
       .done(function( data ){
         self.contributors = data
