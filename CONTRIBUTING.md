@@ -8,7 +8,7 @@ WordPress の管理画面（ダッシュボード）の操作方法をメイン�
 下記の章立てに沿って作成していますが、この内容についても過不足指摘あればプルリクエストもしくはissueをお願いします。
 
 一旦フォークしたリポジトリについて、新たに作業を再開するときは、本体リポジトリの最新の状態をフォークしたリポジトリにも反映してから作業する必要があります。方法についてはコチラをご覧ください。
-https://github.com/wckansai2016/wordpress-document/wiki
+https://github.com/jawordpressorg/user-manual/wiki
 
 ## 章立て
 
@@ -60,7 +60,7 @@ Github アカウントをお持ちでなければ作成します。
 
 ## 自分のリポジトリへのフォーク
 
-Githubにログイン後、[WordPressドキュメント](https://github.com/wckansai2016/wordpress-document)を開き、右上の「Fork」をクリックします。
+Githubにログイン後、[WordPressドキュメント](https://github.com/jawordpressorg/user-manual/)を開き、右上の「Fork」をクリックします。
 
 ## ローカルへのダウンロード(git clone)
 
