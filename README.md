@@ -3,7 +3,7 @@
 
 ### Github ページ （ WordPress ユーザドキュメントURL ）
 
-- https://wckansai2016.github.io/wordpress-document/
+- https://jawordpressorg.github.io/user-manual/
 
 ※ここでの WordPress ユーザドキュメントとは、ユーザー用マニュアルの意です。
 
@@ -15,4 +15,4 @@ WordCamp Kansai 2016 のハンズオン「[誰でも使える WordPress 使い�
 
 ## How to contribute このプロジェクトの参加方法
 
-- https://github.com/wckansai2016/wordpress-document/blob/gh-pages/CONTRIBUTING.md
+- https://github.com/jawordpressorg/user-manual/blob/gh-pages/CONTRIBUTING.md
