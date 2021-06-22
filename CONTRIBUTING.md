@@ -13,6 +13,8 @@ https://github.com/jawordpressorg/user-manual/wiki
 ## 章立て
 
 1. ログインの方法
+1. ダッシュボード
+- 更新（アップデート）
 1. 投稿方法
     - 見出しをつける
     - 画像をテンプルする
@@ -44,8 +46,6 @@ https://github.com/jawordpressorg/user-manual/wiki
 1. 設定
     - 一般設定
     - 表示設定
-1. 更新
-    - アップデート
 
 # ライセンス
 WordPress ソフトウェアと同じく GPL バージョン 2 またはそれ以降の互換ライセンス
@@ -79,11 +79,17 @@ Githubにログイン後、[WordPressドキュメント](https://github.com/jawo
 以下は、デザインテンプレートを変更したい方向けの情報です。ローカルリポジトリにて [Jekyll](https://jekyllrb-ja.github.io/) を利用し、実際の出力内容を確認しながら修正を行います。
 
 ### 使い方
-1. ターミナルで、Gem がなければインストールしておく。`gem -v` でバージョン番号が出れば対応不要。
-1. おなじく Jekyll がなければインストールしておく。コマンドは `gem install jekyll`
+Jekyll は、頻繁に更新されているアクティブなオープンソースプロジェクトです。ローカルでテストができない場合は GitHub Docs の[「Jekyll を使用して GitHub Pages サイトをローカルでテストする
+」](https://docs.github.com/ja/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)も参考にしてください。
+
+1. ターミナルで、Rubyをインストールしてください。`ruby -v` でバージョン番号が出れば対応不要。
+1. おなじく Gem がなければインストールしてください。`gem -v` でバージョン番号が出れば対応不要。
+1. おなじく Jekyll がなければインストールしてください。コマンドは `gem install jekyll`
+1. おなじく Bundler がなければインストールしてください。コマンドは `gem install bundler`
 1. ローカルリポジトリのある場所まで移動
-1. `jekyll serve -w` を実行
-1. 出力メッセージ内 `Server address:` 以下に記載のアドレスにアクセス。たとえば `http://127.0.0.1:4000/wordpress-document/`
+1. `bundle install` を実行して、必要なパッケージをインストールしてください。
+1. ローカルで Jekyll サイトを実行します `bundle exec jekyll serve` を実行
+1. 出力メッセージ内 `Server address:` 以下に記載のアドレスにアクセス。たとえば `http://127.0.0.1:4000/user-manual/`
 1. 実際の GitHub ページと同じであることをたしかめて、`_layouts` ディレクトリ以下のテンプレートを編集します。
 
 ## 時間がないときの編集・確認方法
