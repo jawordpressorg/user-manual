@@ -12,11 +12,11 @@ title: 投稿 - タグの付与 - ブロックエディタ
 
 入力中のタグを確定するには、カンマで区切るか、エンターキーを押します。
 
-![記事にタグを付ける]({{ site.baseurl }}/assets/images/tag_1.png)
+![記事にタグを付ける]({{ site.baseurl }}/assets/images/tag_block_1.png)
 
 ## 既に使用したタグを利用する
 
 既に利用したことのあるタグは、**よく使われているタグ**から選択をクリックすると
 表示されるので、繰り返し同じタグを使用するときに便利です。
 
-![よく使われているタグ]({{ site.baseurl }}/assets/images/tag_2.png)
+![よく使われているタグ]({{ site.baseurl }}/assets/images/tag_block_2.png)
