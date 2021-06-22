@@ -79,8 +79,7 @@ Githubにログイン後、[WordPressドキュメント](https://github.com/jawo
 以下は、デザインテンプレートを変更したい方向けの情報です。ローカルリポジトリにて [Jekyll](https://jekyllrb-ja.github.io/) を利用し、実際の出力内容を確認しながら修正を行います。
 
 ### 使い方
-Jekyll は、頻繁に更新されているアクティブなオープンソースプロジェクトです。ローカルでテストができない場合は GitHub Docs の[「Jekyll を使用して GitHub Pages サイトをローカルでテストする
-」](https://docs.github.com/ja/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)も参考にしてください。
+Jekyll は、頻繁に更新されているアクティブなオープンソースプロジェクトです。ローカルでテストができない場合は GitHub Docs の[「Jekyll を使用して GitHub Pages サイトをローカルでテストする」](https://docs.github.com/ja/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)も参考にしてください。
 
 1. ターミナルで、Rubyをインストールしてください。`ruby -v` でバージョン番号が出れば対応不要。
 1. おなじく Gem がなければインストールしてください。`gem -v` でバージョン番号が出れば対応不要。
